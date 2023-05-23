@@ -14,12 +14,12 @@ Welcome to my GitHub! I'm a seasoned Software Engineer, currently enriching Astr
 ## 🥇 Specialised in:
 - 🔸 FrontEnd: HTML, CSS, React, Vue, Angular, JavaScript, TypeScript
 - 🔸 BackEnd: Node, Go
-- 🔸 Cloud/CICD - AWS, Azure, Kubernetes, Docker, Jenkins, CircleCI
-- 🔸 Databases - Postgres, MongoDB, Redis, ElasticSearch, Memcached
-- 🔸 Message Queus - RabbitMQ, NATS
+- 🔸 Cloud/CICD: AWS, Azure, Kubernetes, Docker, Jenkins, CircleCI
+- 🔸 Databases: Postgres, MongoDB, Redis, ElasticSearch, Memcached
+- 🔸 Message Queus: RabbitMQ, NATS
 
 ## 💌 Get in Touch 
 
-I love meeting new people and discussing new ideas. Reach out if you want to talk tech, collaborate on a project, or just say hi! 🚀 
+I love meeting new people and discussing new ideas. Reach out if you want to talk tech, collaborate on a project, or just say hi! 🚀  I am interested in cloud computing, devops, K8s, AI and data visualisation.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/chioma-onyekpere/).
