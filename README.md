@@ -4,12 +4,12 @@ Welcome to my GitHub! I'm a seasoned Software Engineer, currently enriching Astr
 
 ## 🚀 About Me
 - 🔭 I’m currently working on [Astronomer](https://docs.astronomer.io/) a Modern Data Orchestration.
-- 🌱 I’m currently learning intermediate Python & Go data structure & Algorithms as well as many non technical topics.
+- 🌱 I’m currently learning intermediate Python & Go data structure and algorithms as well as many non-technical topics.
 - 👯 I’m looking to collaborate on projects that elevate and strengthen the underrepresented communities.
 - 🤔 I’m looking for help with being one of the most efficient engineers you'd ever meet
 - 💬 Ask me about providing support to women in tech
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Seeing people who worked on dark screen with coloured text seemed like magic to me. Now I perform that magic.
+- ⚡ Fun fact: Seeing people who worked on a dark screen with coloured text seemed like magic to me. Now I perform that magic.
 
 ## 🥇 Specialised in:
 - 🔸 FrontEnd: HTML, CSS, React, Vue, Angular, JavaScript, TypeScript
@@ -20,6 +20,6 @@ Welcome to my GitHub! I'm a seasoned Software Engineer, currently enriching Astr
 
 ## 💌 Get in Touch 
 
-I love meeting new people and discussing new ideas. Reach out if you want to talk tech, collaborate on a project, or just say hi! 🚀  I am interested in cloud computing, devops, K8s, AI and data visualisation.
+I love meeting new people and discussing new ideas. Reach out if you want to talk tech, collaborate on a project, or just say hi! 🚀  I am interested in cloud computing, DevOps, K8s, AI, and data visualisation.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/chioma-onyekpere/).
