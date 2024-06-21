@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a Full stack Software Engineer, with over half a decade of experience currently enriching Astronomer with my skills in solving complex business and technical problems. I have a knack for creating software that is interactive, dependable, and scalable.
 
-![Chioma Onyekpere](https://github.com/Simpcyclassy/Simpcyclassy/blob/main/static/images/collage.png)
+![Chioma Onyekpere](https://github.com/Simpcyclassy/Simpcyclassy/blob/main/static/images/chioma-collage.png)
 
 ## 🚀 About Me
 - 🔭 I’m currently working on [Astronomer](https://docs.astronomer.io/) Software a Modern Data Orchestration.
