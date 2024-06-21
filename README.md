@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a Full stack Software Engineer, with over half a decad
 ![Chioma Onyekpere](https://github.com/Simpcyclassy/Simpcyclassy/blob/main/static/images/collage.png)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Astronomer](https://docs.astronomer.io/) a Modern Data Orchestration.
+- 🔭 I’m currently working on [Astronomer](https://docs.astronomer.io/) Software a Modern Data Orchestration.
 - 🌱 I’m currently learning intermediate Python & Go data structure & Algorithms as well as many non technical topics.
 - 👯 I’m looking to collaborate on projects that elevate and strengthen the underrepresented communities.
 - 🤔 I’m looking for help with being one of the most efficient engineers you'd ever meet
