@@ -6,12 +6,12 @@ Welcome to my GitHub! I'm a Full stack Software Engineer, with over half a decad
 
 ## 🚀 About Me
 - 🔭 I’m currently working on [Astronomer](https://docs.astronomer.io/) Software a Modern Data Orchestration.
-- 🌱 I’m currently learning intermediate Python & Go data structure & Algorithms as well as many non technical topics.
+- 🌱 I’m currently learning intermediate Python & Go data structure & Algorithms as well as many non-technical topics.
 - 👯 I’m looking to collaborate on projects that elevate and strengthen the underrepresented communities.
 - 🤔 I’m looking for help with being one of the most efficient engineers you'd ever meet
 - 💬 Ask me about providing support to women in tech
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Seeing people who worked on dark screen with coloured text seemed like magic to me. Now I perform that magic.
+- ⚡ Fun fact: Seeing people who worked on a dark screen with coloured text seemed like magic to me. Now I perform that magic.
 
 ## 🥇 These days I work extensively with the following and more:
 - 🔸 FrontEnd: HTML, CSS, React, Vue, Angular, JavaScript, TypeScript
@@ -30,4 +30,9 @@ Welcome to my GitHub! I'm a Full stack Software Engineer, with over half a decad
 
 I love meeting new people and discussing new ideas. Reach out if you want to talk tech, collaborate on a project, or just say hi! 🚀  I am interested in cloud computing, devops, K8s, AI and data visualisation.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/chioma-onyekpere/).
+
+<div>
+  <a href="https://www.linkedin.com/in/chioma-onyekpere/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge" />
+ </a>
+</div>
