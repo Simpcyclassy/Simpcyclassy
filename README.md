@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a full-stack Software Engineer with over half a decade
 
 ## 🥇 These days I work extensively with the following and more:
 - 🔸 FrontEnd: HTML, CSS, React, Vue, Angular, JavaScript, TypeScript
-- 🔸 BackEnd: Node, Go
+- 🔸 BackEnd: Node, Go, Python
 - 🔸 Cloud/CICD: AWS, Azure, Kubernetes, Docker, Jenkins, CircleCI
 - 🔸 Databases: Postgres, MongoDB, Redis, ElasticSearch, Memcached
 - 🔸 Message Queus: RabbitMQ, NATS
