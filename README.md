@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm a **Software Engineer** with over 6 years of experienc
 * **Speaker — [GopherCon EU 2024](https://www.youtube.com/watch?v=F_HyEHyFYEI)** — *Leveraging Go for Efficient Infrastructure and Data Handling*
 * **Tutorial — [PyCon US 2024](https://www.youtube.com/watch?v=C4lAU9qXRXw)** — *Monitoring Carbon Emissions: Making the Impact of Your Python Code Visible*
 * **Workshop — [PyConES 2023](https://2023.es.pycon.org/)** — *Observing Your Python Applications*
-* **Speaker — [TEDx Winnipeg 2025](https://www.youtube.com/watch?v=xSX6SLSKQ34)** — *Biased AI Is Already Deciding Your Future*
+* **Speaker — [TEDxWinnipeg 2025](https://www.youtube.com/watch?v=xSX6SLSKQ34)** — *Biased AI Is Already Deciding Your Future*
 * **Graduate — Predictive Analytics, University of Winnipeg (2025)**
 
 ## 💌 Get in Touch
