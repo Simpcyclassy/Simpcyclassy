@@ -1,6 +1,6 @@
 # Hello World! 👋🏾
 
-Welcome to my GitHub! I'm a **Software Engineer** with over 6 years of experience building reliable, scalable, and user-focused software systems. I currently work at **[Astronomer](https://docs.astronomer.io/)**, where I help design and improve modern data orchestration solutions.
+Welcome to my GitHub! I'm a **Software Engineer**  with a proven history of designing and delivering robust, scalable, and user-centred software systems. I currently work at **[Astronomer](https://docs.astronomer.io/)**, where I help design and improve modern data orchestration solutions.
 
 ![Chioma Onyekpere](https://github.com/user-attachments/assets/77a5b938-83c8-47ad-8c1c-08d504083f96)
 
