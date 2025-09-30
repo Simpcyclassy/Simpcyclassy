@@ -1,6 +1,6 @@
 # Hello World! 👋🏾
 
-Welcome to my GitHub! I'm a **Software Engineer**  with a proven history of designing and delivering robust, scalable, and user-centred software systems. I currently work at **[Astronomer](https://docs.astronomer.io/)**, where I help design and improve modern data orchestration solutions.
+Welcome to my GitHub! I'm a **Software Engineer** with experience in designing and scaling platforms across backend, frontend, and data systems. I build scalable APIs, Kubernetes deployments, and distributed systems. I love to mentor and coach teams, guiding engineers through architecture reviews, coding standards, and career growth. I currently work at **[Astronomer](https://docs.astronomer.io/)**, where I help design and improve modern data orchestration solutions.
 
 ![Chioma Onyekpere](https://github.com/user-attachments/assets/77a5b938-83c8-47ad-8c1c-08d504083f96)
 
@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a **Software Engineer**  with a proven history of desi
 * **Tutorial — [PyCon US 2024](https://www.youtube.com/watch?v=C4lAU9qXRXw)** — *Monitoring Carbon Emissions: Making the Impact of Your Python Code Visible*
 * **Workshop — [PyConES 2023](https://2023.es.pycon.org/)** — *Observing Your Python Applications*
 * **Speaker — [TEDxWinnipeg 2025](https://www.youtube.com/watch?v=xSX6SLSKQ34)** — *Biased AI Is Already Deciding Your Future*
-* **Graduate — Predictive Analytics, University of Winnipeg (2025)**
+* **Pursuing MSc — Business Analytics, Georgia Institute of Technology (2025)**
 
 ## 💌 Get in Touch
 
